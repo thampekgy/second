@@ -16,6 +16,7 @@ public class Second {
      */
     public static void main(String[] args) {
         System.out.println("wahahahahaha");
+        System.out.println("second");
     }
     
 }
